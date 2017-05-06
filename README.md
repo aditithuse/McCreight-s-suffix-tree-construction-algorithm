@@ -1,0 +1,1 @@
+# McCreight-s-suffix-tree-construction-algorithm
